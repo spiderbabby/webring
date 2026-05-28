@@ -1,7 +1,7 @@
 {
     "title": "Spider Webring",
     "description": "a webring of cool websites",
-    "image": "freakazoid.jpg",
+    "image": "https://mickeyz.org/webring/spiderweb.gif",
     "url": "https://spiderbabby.netlify.com/",
     "repo": "https://github.com/spiderbabby/webring",
     "admins": [
