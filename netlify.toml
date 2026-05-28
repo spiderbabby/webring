@@ -3,6 +3,9 @@
   publish = "dist"
   Functions = "functions"
 
+[build.environment]
+  NODE_OPTIONS = "--openssl-legacy-provider"
+
 [[headers]]
     for = "/*"
     [headers.values]
